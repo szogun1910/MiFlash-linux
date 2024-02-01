@@ -19,7 +19,9 @@
 ```
 git clone https://github.com/Gtajisank/MiFlash-linux
 ```
+```
 cd MiFlash-linux  
+```
 ```
 chmod +x go.sh
 ``` 
