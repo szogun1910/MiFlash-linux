@@ -17,7 +17,7 @@
 - 
 ### installation
 ```
-git clone https://github.com/Gtajisank/MiFlash-linux
+git clone https://github.com/Gtajisan/MiFlash-linux
 ```
 ```
 cd MiFlash-linux  
